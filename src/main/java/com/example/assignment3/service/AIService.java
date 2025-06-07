@@ -30,4 +30,5 @@ public class AIService {
         }
         return "Found " + matchedArticles.size() + " relevant article(s): " + String.join(" | ", matchedArticles);
     }
+//    Windows Credentials
 }
